@@ -6,11 +6,11 @@
 
 <script>
 export default {
-  name: 'RuoYiDoc',
+  name: 'Doc',
   data() {
     return {
-      //TODO 编写自己的文档
-      url: 'http://doc.ruoyi.vip/ruoyi-vue'
+
+      url: 'https://www.cnblogs.com/sevents/'
     }
   },
   methods: {

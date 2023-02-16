@@ -71,9 +71,9 @@ module.exports = {
   },
   chainWebpack(config) {
     // 解决性能问题
-    config.plugins.delete('preload') // TODO: need test
+    config.plugins.delete('preload')
     // 解决路由无法懒加载问题
-    config.plugins.delete('prefetch') // TODO: need test
+    config.plugins.delete('prefetch')
 
     // set svg-sprite-loader
     config.module
