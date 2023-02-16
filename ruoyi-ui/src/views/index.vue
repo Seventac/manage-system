@@ -33,6 +33,8 @@
               <li>Axios</li>
               <li>Sass</li>
               <li>Quill</li>
+            </ul>
+            <ul>
               <li>echarts</li>
               <li>...</li>
             </ul>
@@ -58,7 +60,7 @@
           <el-collapse accordion>
             <el-collapse-item title="v0.0.1 - 2023-02-15">
               <ol>
-                  <li></li>
+                <li></li>
               </ol>
             </el-collapse-item>
 
